@@ -1,0 +1,30 @@
+{
+    "files": {
+        "DC/AnimationData.json": "1b480c76b626c931033d48ab1c6498ca0af45b622918378c0794bccb92d0a5f4",
+        "DC/NpcData.txt": "8ae825fb4e55a254f6f0db4cb39948c6fdc92a4d7968131b3101e9d977e42767",
+        "DC/NpcShape-0.json": "d4e4229423ca5a40099d6572ce2be2d13f7f4e0a23cf05da4b073f52274d2e4a",
+        "DC/ServantData.json": "5e69ad68d7585f5a5b2853d5b879b7454772243177cb32f10607891ec356803a",
+        "DC/StrSheet_Creature.json": "02bbb3ddb738764673e7e825a1934264527f37059b2ff4ce9d7d0128f8cf76d8",
+        "DC/StrSheet_Servant.json": "32fcbac3697f0ae2d420d853318b8e7c68c6a6662427c6df38e3774602bc1f15",
+        "README.MD": "cf43d77e1aba5f19272afb59c0273df0218114d02df74379becea0cf527ae0a2",
+        "index.js": "7f29eaf00fa49db8eb672b34edd7e0fefe84fb16f0987e9ceee274a35d64118f",
+        "module.json": "8d422189b7b5bc1c22b651f88a9aec39c7533db36b24a97d162750acdf0a5d6b",
+        "pet_presets.json": "2822eeef6a46244cfd81678fcf036db0f19878c296ee77ff3ec0275c7a2af4a8"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "C_START_TARGETED_SKILL": 7,
+        "S_ABNORMALITY_SCALE_UP": 2,
+        "S_ACTION_END": 5,
+        "S_ACTION_STAGE": 9,
+        "S_INSTANCE_ARROW": 4,
+        "S_INSTANT_DASH": 3,
+        "S_LOGIN": [13,14],
+        "S_NPC_LOCATION": 3,
+        "S_PLAYER_STAT_UPDATE": 13,
+        "S_PLAY_ANIMATION": 1,
+        "S_REQUEST_DESPAWN_SERVANT": 1,
+        "S_REQUEST_SPAWN_SERVANT": 3,
+        "S_SOCIAL": 1
+    }
+}
